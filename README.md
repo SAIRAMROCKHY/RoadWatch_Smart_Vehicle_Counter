@@ -24,7 +24,7 @@ This project implements vehicle detection and counting using OpenCV, a popular c
   1. Install OpenCV in your Python environment: 
      - pip install opencv-python
   2. Clone or download this repository:
-     - git clone https://github.com/your-username/Vehicle-Detection-and-Counting](https://github.com/SAIRAMROCKHY/RoadWatch_Smart_Vehicle_Counter.git
+     - git clone https://github.com/SAIRAMROCKHY/RoadWatch_Smart_Vehicle_Counter.git
   3. Run the vehicle_detection.py script with your video file:
      - python vehicle_detection.py --video Video.mp4
 # Repository Structure
